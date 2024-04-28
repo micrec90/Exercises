@@ -7,6 +7,6 @@ Tasks whose solutions are implemented for [NeetCode](https://neetcode.io/):
 
 [Design Singly Linked List](https://neetcode.io/problems/singlyLinkedList)
 ## LeetCode
-Implemented solutions for [LeetCode](https://leetcode.com/):
+Tasks whose solutions are implemented for [LeetCode](https://leetcode.com/):
 
 [1. Two Sum](https://leetcode.com/problems/two-sum/description/)
