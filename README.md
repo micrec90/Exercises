@@ -10,3 +10,4 @@ Tasks whose solutions are implemented for [NeetCode](https://neetcode.io/):
 Tasks whose solutions are implemented for [LeetCode](https://leetcode.com/):
 
 [1. Two Sum](https://leetcode.com/problems/two-sum/description/)
+[88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)
