@@ -6,6 +6,12 @@ Tasks whose solutions are implemented for [NeetCode](https://neetcode.io/):
 [Design Dynamic Array (Resizable Array)](https://neetcode.io/problems/dynamicArray)
 
 [Design Singly Linked List](https://neetcode.io/problems/singlyLinkedList)
+
+[Factory Method Pattern](https://neetcode.io/problems/factory)
+
+[Prototype Pattern](https://neetcode.io/problems/prototype)
+
+[Adapter Pattern](https://neetcode.io/problems/adapter)
 ## LeetCode
 Tasks whose solutions are implemented for [LeetCode](https://leetcode.com/):
 
