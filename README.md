@@ -17,8 +17,10 @@ Tasks whose solutions are implemented for [LeetCode](https://leetcode.com/):
 
 [1. Two Sum](https://leetcode.com/problems/two-sum/description/)
 
-[88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)
-
 [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)
 
 [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
+
+[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)
+
+[88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)
