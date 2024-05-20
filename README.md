@@ -23,4 +23,6 @@ Tasks whose solutions are implemented for [LeetCode](https://leetcode.com/):
 
 [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)
 
+[13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)
+
 [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)
