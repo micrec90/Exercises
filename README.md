@@ -25,4 +25,6 @@ Tasks whose solutions are implemented for [LeetCode](https://leetcode.com/):
 
 [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)
 
+[26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
+
 [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)
