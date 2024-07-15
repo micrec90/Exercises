@@ -29,4 +29,6 @@ Tasks whose solutions are implemented for [LeetCode](https://leetcode.com/):
 
 [27. Remove Element](https://leetcode.com/problems/remove-element/description/)
 
+[66. Plus One](https://leetcode.com/problems/plus-one/description/)
+
 [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)
