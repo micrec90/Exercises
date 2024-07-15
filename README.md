@@ -31,4 +31,6 @@ Tasks whose solutions are implemented for [LeetCode](https://leetcode.com/):
 
 [66. Plus One](https://leetcode.com/problems/plus-one/description/)
 
+[67. Add Binary](https://leetcode.com/problems/add-binary/description/)
+
 [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)
