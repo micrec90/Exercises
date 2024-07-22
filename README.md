@@ -29,6 +29,8 @@ Tasks whose solutions are implemented for [LeetCode](https://leetcode.com/):
 
 [27. Remove Element](https://leetcode.com/problems/remove-element/description/)
 
+[29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/)
+
 [66. Plus One](https://leetcode.com/problems/plus-one/description/)
 
 [67. Add Binary](https://leetcode.com/problems/add-binary/description/)
