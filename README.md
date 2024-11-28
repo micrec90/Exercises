@@ -38,3 +38,5 @@ Tasks whose solutions are implemented for [LeetCode](https://leetcode.com/):
 [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)
 
 [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)
+
+[338. Counting Bits](https://leetcode.com/problems/counting-bits/description/)
