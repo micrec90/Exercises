@@ -39,4 +39,6 @@ Tasks whose solutions are implemented for [LeetCode](https://leetcode.com/):
 
 [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)
 
+[169. Majority Element](https://leetcode.com/problems/majority-element/description/)
+
 [338. Counting Bits](https://leetcode.com/problems/counting-bits/description/)
