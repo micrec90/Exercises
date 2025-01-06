@@ -25,6 +25,8 @@ Tasks whose solutions are implemented for [LeetCode](https://leetcode.com/):
 
 [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)
 
+[24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/)
+
 [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
 
 [27. Remove Element](https://leetcode.com/problems/remove-element/description/)
