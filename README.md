@@ -21,6 +21,8 @@ Tasks whose solutions are implemented for [LeetCode](https://leetcode.com/):
 
 [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
 
+[4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
+
 [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)
 
 [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)
