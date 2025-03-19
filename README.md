@@ -23,6 +23,8 @@ Tasks whose solutions are implemented for [LeetCode](https://leetcode.com/):
 
 [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
 
+[5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)
+
 [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)
 
 [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)
