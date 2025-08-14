@@ -1,6 +1,9 @@
 # Exercises
+
 Project containing my solutions for different data structures and programming exercises like LeetCode, HackerRank, Codewars, etc. all in one place.
+
 ## NeetCode
+
 Tasks whose solutions are implemented for [NeetCode](https://neetcode.io/):
 
 [Design Dynamic Array (Resizable Array)](https://neetcode.io/problems/dynamicArray)
@@ -12,7 +15,9 @@ Tasks whose solutions are implemented for [NeetCode](https://neetcode.io/):
 [Prototype Pattern](https://neetcode.io/problems/prototype)
 
 [Adapter Pattern](https://neetcode.io/problems/adapter)
+
 ## LeetCode
+
 Tasks whose solutions are implemented for [LeetCode](https://leetcode.com/):
 
 [1. Two Sum](https://leetcode.com/problems/two-sum/description/)
@@ -28,6 +33,8 @@ Tasks whose solutions are implemented for [LeetCode](https://leetcode.com/):
 [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)
 
 [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)
+
+[14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 
 [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/)
 
@@ -48,3 +55,4 @@ Tasks whose solutions are implemented for [LeetCode](https://leetcode.com/):
 [169. Majority Element](https://leetcode.com/problems/majority-element/description/)
 
 [338. Counting Bits](https://leetcode.com/problems/counting-bits/description/)
+
