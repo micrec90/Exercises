@@ -56,3 +56,5 @@ Tasks whose solutions are implemented for [LeetCode](https://leetcode.com/):
 
 [338. Counting Bits](https://leetcode.com/problems/counting-bits/description/)
 
+[771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/)
+
