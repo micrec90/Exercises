@@ -56,6 +56,8 @@ Tasks whose solutions are implemented for [LeetCode](https://leetcode.com/):
 
 [169. Majority Element](https://leetcode.com/problems/majority-element/description/)
 
+[219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/)
+
 [338. Counting Bits](https://leetcode.com/problems/counting-bits/description/)
 
 [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/)
