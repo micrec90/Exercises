@@ -30,6 +30,12 @@ Tasks whose solutions are implemented for [LeetCode](https://leetcode.com/):
 
 [5. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/)
 
+[6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/description/)
+
+[7. Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)
+
+[8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/)
+
 [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)
 
 [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)
