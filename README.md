@@ -38,6 +38,8 @@ Tasks whose solutions are implemented for [LeetCode](https://leetcode.com/):
 
 [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/description/)
 
+[10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/)
+
 [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)
 
 [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
