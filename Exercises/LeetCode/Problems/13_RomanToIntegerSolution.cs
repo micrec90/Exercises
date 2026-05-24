@@ -1,14 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace LeetCode.Problems
+﻿namespace LeetCode.Problems
 {
     public class RomanToIntegerSolution
     {
-        Dictionary<char, int> dictionary = new Dictionary<char, int>
+        private static readonly Dictionary<char, int> dictionary = new Dictionary<char, int>
         {
             {'I', 1},
             {'V', 5},
