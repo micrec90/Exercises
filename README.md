@@ -52,6 +52,8 @@ Tasks whose solutions are implemented for [LeetCode](https://leetcode.com/):
 
 [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/description/)
 
+[17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)
+
 [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/)
 
 [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
