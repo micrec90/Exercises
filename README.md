@@ -48,6 +48,8 @@ Tasks whose solutions are implemented for [LeetCode](https://leetcode.com/):
 
 [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 
+[15. 3Sum](https://leetcode.com/problems/3sum/description/)
+
 [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/)
 
 [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
