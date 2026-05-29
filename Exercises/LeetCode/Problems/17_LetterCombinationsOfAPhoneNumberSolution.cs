@@ -13,7 +13,8 @@ namespace LeetCode.Problems
         public IList<string> LetterCombinations(string digits)
         {
             var result = new List<string>();
-            if (string.IsNullOrEmpty(digits)) return result;
+            if (string.IsNullOrEmpty(digits))
+                return result;
 
             Backtrack(digits, 0, new StringBuilder(), result);
             return result;
