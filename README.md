@@ -54,6 +54,12 @@ Tasks whose solutions are implemented for [LeetCode](https://leetcode.com/):
 
 [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/)
 
+[18. 4Sum](https://leetcode.com/problems/4sum/description/)
+
+[19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)
+
+[20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)
+
 [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/)
 
 [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
