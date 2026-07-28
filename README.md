@@ -94,6 +94,8 @@ Tasks whose solutions are implemented for [LeetCode](https://leetcode.com/):
 
 [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/)
 
+[628. Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/description/)
+
 [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/)
 
 [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/)
