@@ -60,6 +60,12 @@ Tasks whose solutions are implemented for [LeetCode](https://leetcode.com/):
 
 [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)
 
+[21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)
+
+[22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/)
+
+[23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)
+
 [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/)
 
 [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
@@ -99,6 +105,8 @@ Tasks whose solutions are implemented for [LeetCode](https://leetcode.com/):
 [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/)
 
 [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/)
+
+[1406. Stone Game III](https://leetcode.com/problems/stone-game-iii/description/)
 
 [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/description/)
 
