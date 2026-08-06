@@ -68,9 +68,13 @@ Tasks whose solutions are implemented for [LeetCode](https://leetcode.com/):
 
 [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/)
 
+[25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)
+
 [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
 
 [27. Remove Element](https://leetcode.com/problems/remove-element/description/)
+
+[28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/)
 
 [29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/)
 
