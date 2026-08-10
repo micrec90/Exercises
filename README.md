@@ -108,9 +108,15 @@ Tasks whose solutions are implemented for [LeetCode](https://leetcode.com/):
 
 [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/)
 
+[877. Stone Game](https://leetcode.com/problems/stone-game/description/)
+
 [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/)
 
+[1140. Stone Game II](https://leetcode.com/problems/stone-game-ii/description/)
+
 [1406. Stone Game III](https://leetcode.com/problems/stone-game-iii/description/)
+
+[1510. Stone Game IV](https://leetcode.com/problems/stone-game-iv/description/)
 
 [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/description/)
 
