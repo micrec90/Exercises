@@ -80,6 +80,8 @@ Tasks whose solutions are implemented for [LeetCode](https://leetcode.com/):
 
 [30. Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/)
 
+[31. Next Permutation](https://leetcode.com/problems/next-permutation/description/)
+
 [66. Plus One](https://leetcode.com/problems/plus-one/description/)
 
 [67. Add Binary](https://leetcode.com/problems/add-binary/description/)
