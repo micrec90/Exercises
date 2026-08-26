@@ -78,6 +78,8 @@ Tasks whose solutions are implemented for [LeetCode](https://leetcode.com/):
 
 [29. Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/)
 
+[30. Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/)
+
 [66. Plus One](https://leetcode.com/problems/plus-one/description/)
 
 [67. Add Binary](https://leetcode.com/problems/add-binary/description/)
