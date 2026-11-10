@@ -84,6 +84,8 @@ Tasks whose solutions are implemented for [LeetCode](https://leetcode.com/):
 
 [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/description/)
 
+[33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
+
 [66. Plus One](https://leetcode.com/problems/plus-one/description/)
 
 [67. Add Binary](https://leetcode.com/problems/add-binary/description/)
